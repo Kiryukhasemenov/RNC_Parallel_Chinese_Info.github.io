@@ -10,5 +10,5 @@
 
 Наш корпус - результат работы сотрудников ИРЯ, РГГУ, ВШЭ, МГУ, Чжэцзянского и Хэйлунцзянского университетов. Вы можете посмотреть, как он работает, на [сайте корпусов Вышки](https://linghub.ru/rnc_parallel_chinese/search) и на [сайте НКРЯ](http://www.ruscorpora.ru/new/search-para-zh.html) (UPD: прямо сейчас он там не работает).
 
-...сайт находится в стадии разработки...
+... ![loading](https://st4.depositphotos.com/7662228/26266/v/1600/depositphotos_262663382-stock-illustration-loading-icon-load-system-data.jpg) сайт находится в стадии разработки...
 

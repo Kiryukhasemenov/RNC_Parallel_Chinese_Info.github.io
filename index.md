@@ -65,7 +65,7 @@
 
 ## Полезные ссылки для участников корпуса
 
-0. небольшая презентация нашего корпуса: здесь
+0. небольшая презентация нашего корпуса: [здесь](корпус_презентация.pdf)
 1. Гугл-таблица со списком участников и ближайшими задачами: [здесь](https://docs.google.com/spreadsheets/d/1lHKnLNeBceKZmBczLU0LqBDgp27OMBPqomXeIxcl2QE/edit?usp=sharing)
 2. Папка с протоколами всех встреч корпуса: [здесь](https://yadi.sk/d/G5EnsKdbcfFdvg)
 3. Статьи Д.В. Сичинавы (ИРЯ РАН, ВШЭ) о [создании](http://ruslang.ru/doc/sitchinava/sitchinava-2015-parallel_corpus.pdf) нашего корпуса и его [развитии до 2019 г.](https://yadi.sk/i/rkz-tMsY1dJ_8A)
